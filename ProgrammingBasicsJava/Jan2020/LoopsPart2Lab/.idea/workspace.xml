@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7372b08-def0-4ac5-ae2f-e9661827f856" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XlhryjqdjxONTsAlVy0xElfe7Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application._10Moving">
+    <configuration name="_05AccountBalance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_05AccountBalance" />
+      <module name="LoopsPart2Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_06MaxNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_06MaxNumber" />
+      <module name="LoopsPart2Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_07MinNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_07MinNumber" />
+      <module name="LoopsPart2Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_08Graduation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_08Graduation" />
+      <module name="LoopsPart2Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_10Moving" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10Moving" />
+      <module name="LoopsPart2Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application._05AccountBalance" />
+      <item itemvalue="Application._06MaxNumber" />
+      <item itemvalue="Application._07MinNumber" />
+      <item itemvalue="Application._08Graduation" />
+      <item itemvalue="Application._10Moving" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._10Moving" />
+        <item itemvalue="Application._08Graduation" />
+        <item itemvalue="Application._07MinNumber" />
+        <item itemvalue="Application._06MaxNumber" />
+        <item itemvalue="Application._05AccountBalance" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7372b08-def0-4ac5-ae2f-e9661827f856" name="Default Changelist" comment="" />
+      <created>1581626790972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581626790972</updated>
+      <workItem from="1581626792838" duration="17459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1581885513593">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581885513593" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1581885513593">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581885513593" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1581885513593">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581885513593" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1581885513593">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581885513593" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1581885513593">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581885513593" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1581885513593">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1581885513593" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1581885513593">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1581885513593" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1581885513593">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1581885513593" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1581875097923">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1581875097923" />
+  </component>
+</project>

@@ -1,0 +1,30 @@
+div {
+    display: inline-block;
+    padding: 20px;
+    border: 3px solid yellow;
+    margin: 20px;
+    font-family: 'Indie Flower', cursive;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+}
+
+.green {
+    background: green;
+}
+
+div.blue {
+    background: blue;
+}
+
+.red {
+    background: red;
+}
+
+.purple {
+    background: purple;
+}
+
+.orange {
+    background: orange;
+}

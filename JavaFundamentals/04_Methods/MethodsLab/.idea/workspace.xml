@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e548735-c765-408d-aa69-a1e442ccd19c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d3VDaw93fjoOzoQ6a9BJR0GgNJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RunManager" selected="Application._11MathOperations">
+    <configuration name="_07RepeatString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_07RepeatString" />
+      <module name="MethodsLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_08MathPower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_08MathPower" />
+      <module name="MethodsLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_09GreaterOfTwoValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_09GreaterOfTwoValues" />
+      <module name="MethodsLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_10MultiplyEvensbyOdds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10MultiplyEvensbyOdds" />
+      <module name="MethodsLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_11MathOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11MathOperations" />
+      <module name="MethodsLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application._07RepeatString" />
+      <item itemvalue="Application._08MathPower" />
+      <item itemvalue="Application._09GreaterOfTwoValues" />
+      <item itemvalue="Application._10MultiplyEvensbyOdds" />
+      <item itemvalue="Application._11MathOperations" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._11MathOperations" />
+        <item itemvalue="Application._10MultiplyEvensbyOdds" />
+        <item itemvalue="Application._09GreaterOfTwoValues" />
+        <item itemvalue="Application._08MathPower" />
+        <item itemvalue="Application._07RepeatString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e548735-c765-408d-aa69-a1e442ccd19c" name="Default Changelist" comment="" />
+      <created>1591653644070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591653644070</updated>
+      <workItem from="1591653645497" duration="7734000" />
+      <workItem from="1591965874898" duration="9966000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="938" height="224" key="GridCell.Tab.0.bottom" timestamp="1591988738237">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="938" height="224" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1591988738237" />
+    <state width="938" height="224" key="GridCell.Tab.0.center" timestamp="1591988738237">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="938" height="224" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1591988738237" />
+    <state width="938" height="224" key="GridCell.Tab.0.left" timestamp="1591988738237">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="938" height="224" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1591988738237" />
+    <state width="938" height="224" key="GridCell.Tab.0.right" timestamp="1591988738237">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="938" height="224" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1591988738237" />
+    <state x="-1264" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1591967037447">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1264" y="404" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1591967037447" />
+    <state x="-1314" y="195" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591987892285">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1314" y="195" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1591987892285" />
+    <state x="-1230" y="335" key="extract.method.dialog" timestamp="1591988149885">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1230" y="335" key="extract.method.dialog/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1591988149885" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/_01SignOfIntegerNumbers.java</url>
+          <line>3</line>
+          <properties class="_01SignOfIntegerNumbers" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

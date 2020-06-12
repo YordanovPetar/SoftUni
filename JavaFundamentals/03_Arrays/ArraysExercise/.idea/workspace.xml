@@ -88,6 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1591020909386</updated>
       <workItem from="1591020912591" duration="22131000" />
+      <workItem from="1591653557000" duration="24000" />
     </task>
     <servers />
   </component>
@@ -127,9 +128,10 @@
       <screen x="-1920" y="-112" width="1920" height="1040" />
     </state>
     <state width="1877" height="224" key="GridCell.Tab.1.right/0.0.1536.824/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1591193480647" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1591020913593">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="-1339" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1591653558118">
+      <screen x="-1920" y="-112" width="1920" height="1040" />
     </state>
+    <state x="-1339" y="186" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1591653558118" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.-112.1920.1040@0.0.1536.824" timestamp="1591020913593" />
   </component>
 </project>

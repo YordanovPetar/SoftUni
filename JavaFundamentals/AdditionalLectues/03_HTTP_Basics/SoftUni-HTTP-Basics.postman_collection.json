@@ -1,0 +1,478 @@
+{
+	"info": {
+		"_postman_id": "e6c9ef6d-27c4-4f85-b451-d7bf23f90b3a",
+		"name": "SoftUni-HTTP-Basics",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "1. Kinvey: Handshake",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "guest",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "guest",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://baas.kinvey.com/appdata/kid_S1rDXLP4N",
+					"protocol": "https",
+					"host": [
+						"baas",
+						"kinvey",
+						"com"
+					],
+					"path": [
+						"appdata",
+						"kid_S1rDXLP4N"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "2. Get All Songs",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "guest",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "guest",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://baas.kinvey.com/appdata/kid_S1rDXLP4N/songs",
+					"protocol": "https",
+					"host": [
+						"baas",
+						"kinvey",
+						"com"
+					],
+					"path": [
+						"appdata",
+						"kid_S1rDXLP4N",
+						"songs"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "3. Create New Song",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "guest",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "guest",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "name",
+							"value": "Back in Black",
+							"type": "text"
+						},
+						{
+							"key": "album",
+							"value": "Back in Black",
+							"type": "text"
+						},
+						{
+							"key": "artist",
+							"value": "AC/DC",
+							"type": "text"
+						},
+						{
+							"key": "time",
+							"value": "4:15",
+							"type": "text"
+						},
+						{
+							"key": "year",
+							"value": "1980",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://baas.kinvey.com/appdata/kid_S1rDXLP4N/songs",
+					"protocol": "https",
+					"host": [
+						"baas",
+						"kinvey",
+						"com"
+					],
+					"path": [
+						"appdata",
+						"kid_S1rDXLP4N",
+						"songs"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "4. Delete a Song",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "guest",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "guest",
+							"type": "string"
+						}
+					]
+				},
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "name",
+							"value": "Back in Black",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "album",
+							"value": "Back in Black",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "artist",
+							"value": "AC/DC",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "time",
+							"value": "4:15",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "year",
+							"value": "1980",
+							"type": "text",
+							"disabled": true
+						}
+					]
+				},
+				"url": {
+					"raw": "https://baas.kinvey.com/appdata/kid_S1rDXLP4N/songs/postId",
+					"protocol": "https",
+					"host": [
+						"baas",
+						"kinvey",
+						"com"
+					],
+					"path": [
+						"appdata",
+						"kid_S1rDXLP4N",
+						"songs",
+						"postId"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "5. Edit a Song",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "guest",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "guest",
+							"type": "string"
+						}
+					]
+				},
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "name",
+							"value": "Dani California",
+							"type": "text"
+						},
+						{
+							"key": "album",
+							"value": "Stadium Arcadium",
+							"type": "text"
+						},
+						{
+							"key": "artist",
+							"value": "AC/DC",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "time",
+							"value": "4:43",
+							"type": "text"
+						},
+						{
+							"key": "year",
+							"value": "2006",
+							"type": "text"
+						},
+						{
+							"key": "genre",
+							"value": "Rock",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://baas.kinvey.com/appdata/kid_S1rDXLP4N/songs/5c5adb00c892215f50bd6761",
+					"protocol": "https",
+					"host": [
+						"baas",
+						"kinvey",
+						"com"
+					],
+					"path": [
+						"appdata",
+						"kid_S1rDXLP4N",
+						"songs",
+						"5c5adb00c892215f50bd6761"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "6. Login",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "guest",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "guest",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"username\": \"guest\",\n\t\"password\": \"guest\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://baas.kinvey.com/user/kid_S1rDXLP4N/login",
+					"protocol": "https",
+					"host": [
+						"baas",
+						"kinvey",
+						"com"
+					],
+					"path": [
+						"user",
+						"kid_S1rDXLP4N",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "7. *Bonus: Logout",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Authorization",
+						"value": "Token",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"username\": \"guest\",\n\t\"password\": \"guest\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://baas.kinvey.com/user/kid_S1rDXLP4N/_logout",
+					"protocol": "https",
+					"host": [
+						"baas",
+						"kinvey",
+						"com"
+					],
+					"path": [
+						"user",
+						"kid_S1rDXLP4N",
+						"_logout"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "8. Get All Trips",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://trips-48955.firebaseio.com/trips.json",
+					"protocol": "https",
+					"host": [
+						"trips-48955",
+						"firebaseio",
+						"com"
+					],
+					"path": [
+						"trips.json"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "9. Create New Trip",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"description\" : \" October-November and February-March are the best times to see the northern lights. Dark skies yield better displays – avoid full moon. \",\r\n    \"imagePath\" : \"https://www.aurora-nights.co.uk/wp-content/uploads/2019/07/norway-northern-lights-1500x587_c.jpg\",\r\n    \"name\" : \"Capture the Northern Lights on camera\"\r\n}"
+				},
+				"url": {
+					"raw": "https://trips-48955.firebaseio.com/trips.json",
+					"protocol": "https",
+					"host": [
+						"trips-48955",
+						"firebaseio",
+						"com"
+					],
+					"path": [
+						"trips.json"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "10. Delete a Trip",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://trips-48955.firebaseio.com/trips/{postId}.json",
+					"protocol": "https",
+					"host": [
+						"trips-48955",
+						"firebaseio",
+						"com"
+					],
+					"path": [
+						"trips",
+						"{postId}.json"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "11. Edit a Trip",
+			"request": {
+				"method": "PATCH",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"description\" : \"Egypt welcomes you!\",\r\n    \"imagePath\" : \"https://www.karacitours.bg/public/thumbs/767x341/egipet/egipet-4_767x341_crop_542eb8694d.jpg\",\r\n    \"name\" : \"Pyramids of Giza, Egypt\",\r\n    \"edit\": \"true\"\r\n}"
+				},
+				"url": {
+					"raw": "https://trips-48955.firebaseio.com/trips/{postId}.json",
+					"protocol": "https",
+					"host": [
+						"trips-48955",
+						"firebaseio",
+						"com"
+					],
+					"path": [
+						"trips",
+						"{postId}.json"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

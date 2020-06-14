@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="396c5b9d-9e27-4522-bb51-e2986d6f82e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dEe5uSEwrLtCQCxWh3msSTsRF8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application._11ArrayManipulator">
+    <configuration name="_07NxN_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_07NxN_Matrix" />
+      <module name="MethodsExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_08FactorialDivision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_08FactorialDivision" />
+      <module name="MethodsExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_09PalindromeIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_09PalindromeIntegers" />
+      <module name="MethodsExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_10TopNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10TopNumber" />
+      <module name="MethodsExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_11ArrayManipulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11ArrayManipulator" />
+      <module name="MethodsExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application._07NxN_Matrix" />
+      <item itemvalue="Application._08FactorialDivision" />
+      <item itemvalue="Application._09PalindromeIntegers" />
+      <item itemvalue="Application._10TopNumber" />
+      <item itemvalue="Application._11ArrayManipulator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._11ArrayManipulator" />
+        <item itemvalue="Application._10TopNumber" />
+        <item itemvalue="Application._09PalindromeIntegers" />
+        <item itemvalue="Application._08FactorialDivision" />
+        <item itemvalue="Application._07NxN_Matrix" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="396c5b9d-9e27-4522-bb51-e2986d6f82e2" name="Default Changelist" comment="" />
+      <created>1591994499493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591994499493</updated>
+      <workItem from="1591994502384" duration="25961000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Inspections" timestamp="1592083027932">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1592083027932" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1592115659787">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1592115659787" />
+    <state width="1493" height="201" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592086081219" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1592115659786">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1592115659786" />
+    <state width="1493" height="201" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592086081219" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1592115659786">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1592115659786" />
+    <state width="1493" height="201" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592086081218" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1592115659786">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1592115659786" />
+    <state width="1493" height="201" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592086081219" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1592115659787">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1592115659787" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592084397448" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1592115659787">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1592115659787" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592084397448" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1592115659787">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1592115659787" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592084397448" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1592115659787">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1592115659787" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592084397448" />
+    <state x="499" y="168" key="extract.method.dialog" timestamp="1592084189852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="168" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1592084189852" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1592066629261">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1592066629261" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_08FactorialDivision.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_08FactorialDivision.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_08FactorialDivision.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_09PalindromeIntegers.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_09PalindromeIntegers.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

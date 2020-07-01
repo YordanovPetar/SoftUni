@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce6b50bb-d1ee-437b-86d2-b01d39fa2adf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e5l5vTzYfVBKvgTvCuSJkiDfCG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RunManager" selected="Application._01BlackFlag">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="07_MidExamPreparation" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreasureHunt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TreasureHunt" />
+      <module name="07_MidExamPreparation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_01BlackFlag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01BlackFlag" />
+      <module name="07_MidExamPreparation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_03ManOWar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03ManOWar" />
+      <module name="07_MidExamPreparation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TreasureHunt" />
+      <item itemvalue="Application._03ManOWar" />
+      <item itemvalue="Application._01BlackFlag" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._01BlackFlag" />
+        <item itemvalue="Application._03ManOWar" />
+        <item itemvalue="Application.TreasureHunt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce6b50bb-d1ee-437b-86d2-b01d39fa2adf" name="Default Changelist" comment="" />
+      <created>1593619154790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593619154790</updated>
+      <workItem from="1593619156127" duration="13493000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="256" key="GridCell.Tab.0.bottom" timestamp="1593633669375">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="256" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1593633669375" />
+    <state width="1877" height="256" key="GridCell.Tab.0.center" timestamp="1593633669375">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="256" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1593633669375" />
+    <state width="1877" height="256" key="GridCell.Tab.0.left" timestamp="1593633669375">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="256" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1593633669375" />
+    <state width="1877" height="256" key="GridCell.Tab.0.right" timestamp="1593633669375">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="256" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1593633669375" />
+    <state width="1877" height="256" key="GridCell.Tab.1.bottom" timestamp="1593633669375">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="256" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1593633669375" />
+    <state width="1877" height="256" key="GridCell.Tab.1.center" timestamp="1593633669375">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="256" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1593633669375" />
+    <state width="1877" height="256" key="GridCell.Tab.1.left" timestamp="1593633669375">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="256" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1593633669375" />
+    <state width="1877" height="256" key="GridCell.Tab.1.right" timestamp="1593633669375">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="256" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1593633669375" />
+    <state x="-1230" y="346" key="extract.method.dialog" timestamp="1593627024052">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1230" y="346" key="extract.method.dialog/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1593627024052" />
+  </component>
+</project>

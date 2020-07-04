@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cf7cb5f-6f3d-4ab2-b655-0ea1d9d09b60" name="Default Changelist" comment="" />
+    <list default="true" id="fd3f7ec5-65b9-4d73-870f-1f5b62c41cc6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +14,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1e0q27ZNVAIupstBB8qUfo8F5MM" />
+  <component name="ProjectId" id="1eAWKqkixLrehhJPvGoIjbSihS4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,21 +24,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_04Songs.Main" />
-      <module name="ObjectsAndClassesExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_04Songs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_05Students.Main" />
       <module name="ObjectsAndClassesExercise" />
       <extension name="coverage">
@@ -51,12 +38,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_06Students2_0.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03OpinionPoll.Main" />
       <module name="ObjectsAndClassesExercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_06Students2_0.*" />
+          <option name="PATTERN" value="_03OpinionPoll.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,34 +51,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_02SumBigNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_02SumBigNumbers" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04Articles2_0.Main" />
       <module name="ObjectsAndClassesExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_04Articles2_0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_03BigFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_03BigFactorial" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_06VehicleCatalogue.Main" />
       <module name="ObjectsAndClassesExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_06VehicleCatalogue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_07OrderByAge.Main" />
+      <module name="ObjectsAndClassesExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_07OrderByAge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application._02SumBigNumbers" />
-      <item itemvalue="Application._03BigFactorial" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application._03BigFactorial" />
-        <item itemvalue="Application._02SumBigNumbers" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -100,13 +112,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8cf7cb5f-6f3d-4ab2-b655-0ea1d9d09b60" name="Default Changelist" comment="" />
-      <created>1593468647178</created>
+      <changelist id="fd3f7ec5-65b9-4d73-870f-1f5b62c41cc6" name="Default Changelist" comment="" />
+      <created>1593764816263</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1593468647178</updated>
-      <workItem from="1593468648543" duration="8690000" />
-      <workItem from="1593678329503" duration="5115000" />
+      <updated>1593764816263</updated>
+      <workItem from="1593764817762" duration="21464000" />
     </task>
     <servers />
   </component>
@@ -114,25 +125,75 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1155" y="281" key="#com.intellij.ide.util.MemberChooser" timestamp="1593596903940">
+    <state x="612" y="210" key="#com.intellij.ide.util.MemberChooser" timestamp="1593885058978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1155" y="296" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1593883073255" />
+    <state x="612" y="210" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1593885058978" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1593892203858">
       <screen x="-1920" y="0" width="1920" height="1160" />
     </state>
-    <state x="-1155" y="281" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1593596903940" />
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1593725158597">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1593892203858" />
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593889151023" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1593892203858">
       <screen x="-1920" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1593725158597" />
-    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1593725158597">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1593892203858" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593889151023" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1593892203858">
       <screen x="-1920" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1593725158597" />
-    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1593725158597">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1593892203858" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593889151023" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1593892203858">
       <screen x="-1920" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1593725158597" />
-    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1593725158597">
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1593892203858" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593889151023" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1593892203858">
       <screen x="-1920" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1593725158597" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1593892203858" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593885788880" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1593892203858">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1593892203858" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593885788880" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1593892203858">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1593892203858" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593885788880" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1593892203858">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1593892203858" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593885788880" />
+    <state x="-1316" y="195" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1593813524185">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1316" y="195" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1593813524185" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_05Students/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_05Students/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_04Articles2_0/Article.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

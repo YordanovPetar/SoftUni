@@ -1,7 +1,7 @@
 import java.util.Arrays;
-import java.util.List;
-import java.util.Scanner;
-import java.util.stream.Collectors;
+        import java.util.List;
+        import java.util.Scanner;
+        import java.util.stream.Collectors;
 
 public class _05Largest3Numbers {
     public static void main(String[] args) {

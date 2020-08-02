@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ba04594-2c71-4b96-addf-79e10ac608db" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eNRotVEKN9o2D2FtOVqbIDebdH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application._10SoftUniExamResults">
+    <configuration name="_04Orders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04Orders" />
+      <module name="Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_05SoftUniParking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_05SoftUniParking" />
+      <module name="Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_07StudentAcademy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_07StudentAcademy" />
+      <module name="Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_09ForceBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_09ForceBook" />
+      <module name="Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_10SoftUniExamResults" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10SoftUniExamResults" />
+      <module name="Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._10SoftUniExamResults" />
+        <item itemvalue="Application._09ForceBook" />
+        <item itemvalue="Application._07StudentAcademy" />
+        <item itemvalue="Application._05SoftUniParking" />
+        <item itemvalue="Application._04Orders" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ba04594-2c71-4b96-addf-79e10ac608db" name="Default Changelist" comment="" />
+      <created>1594160241815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594160241815</updated>
+      <workItem from="1594160243255" duration="641000" />
+      <workItem from="1594211456194" duration="13434000" />
+      <workItem from="1594723235171" duration="17566000" />
+      <workItem from="1596401615241" duration="1655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1595480333753">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1595480333753" />
+    <state x="83" y="46" width="1350" height="638" key="DiffContextDialog" timestamp="1595480201284">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="83" y="46" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1595480201284" />
+    <state width="1493" height="181" key="GridCell.Tab.0.bottom" timestamp="1596404792041">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="482" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1594736821259" />
+    <state width="1493" height="181" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596404792041" />
+    <state width="1493" height="181" key="GridCell.Tab.0.center" timestamp="1596404792038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="482" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1594736821258" />
+    <state width="1493" height="181" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596404792038" />
+    <state width="1493" height="181" key="GridCell.Tab.0.left" timestamp="1596404792037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="482" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1594736821258" />
+    <state width="1493" height="181" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596404792037" />
+    <state width="1493" height="181" key="GridCell.Tab.0.right" timestamp="1596404792040">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="482" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1594736821258" />
+    <state width="1493" height="181" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596404792040" />
+    <state x="516" y="337" key="com.intellij.ide.util.TipDialog" timestamp="1596401657075">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1275" y="475" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1594723246178" />
+    <state x="516" y="337" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596401657075" />
+  </component>
+</project>

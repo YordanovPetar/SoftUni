@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76f29de2-196b-45e3-a722-c55e0505a324" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fzjN4Y4QMQszqFeqoxSnPaTcYR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application._07StringExplosion">
+    <configuration name="_03ExtractFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03ExtractFile" />
+      <module name="TextProcessingExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_04CaesarCipher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04CaesarCipher" />
+      <module name="TextProcessingExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_05MultiplyBigNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_05MultiplyBigNumber" />
+      <module name="TextProcessingExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_06ReplaceRepeatingChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_06ReplaceRepeatingChars" />
+      <module name="TextProcessingExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_07StringExplosion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_07StringExplosion" />
+      <module name="TextProcessingExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application._03ExtractFile" />
+      <item itemvalue="Application._04CaesarCipher" />
+      <item itemvalue="Application._05MultiplyBigNumber" />
+      <item itemvalue="Application._06ReplaceRepeatingChars" />
+      <item itemvalue="Application._07StringExplosion" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._07StringExplosion" />
+        <item itemvalue="Application._06ReplaceRepeatingChars" />
+        <item itemvalue="Application._05MultiplyBigNumber" />
+        <item itemvalue="Application._04CaesarCipher" />
+        <item itemvalue="Application._03ExtractFile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76f29de2-196b-45e3-a722-c55e0505a324" name="Default Changelist" comment="" />
+      <created>1597227771508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597227771508</updated>
+      <workItem from="1597227772977" duration="12045000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="396" key="GridCell.Tab.0.bottom" timestamp="1597260694489">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1597260694489" />
+    <state width="1877" height="396" key="GridCell.Tab.0.center" timestamp="1597260694488">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1597260694488" />
+    <state width="1877" height="396" key="GridCell.Tab.0.left" timestamp="1597260694488">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1597260694488" />
+    <state width="1877" height="396" key="GridCell.Tab.0.right" timestamp="1597260694489">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1597260694489" />
+    <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1597260694489">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1597260694489" />
+    <state width="1877" height="396" key="GridCell.Tab.1.center" timestamp="1597260694489">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1597260694489" />
+    <state width="1877" height="396" key="GridCell.Tab.1.left" timestamp="1597260694489">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1597260694489" />
+    <state width="1877" height="396" key="GridCell.Tab.1.right" timestamp="1597260694489">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1597260694489" />
+  </component>
+</project>

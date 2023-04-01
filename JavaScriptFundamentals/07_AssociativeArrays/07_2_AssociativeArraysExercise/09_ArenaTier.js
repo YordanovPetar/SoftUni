@@ -1,73 +1,72 @@
-function arenaTier(data) {
-    let gladiatorsPool = new Map();
-    let index = 0;
-    let command = data[index];
-    index++;
+function arenaTier(input) {
+
+    let workInput = [...input];
+    const gladiators = {};
+    const skill = 'skill';
+    const tech = 'technique';
+    let command = workInput.shift();
 
     while (command !== 'Ave Cesar') {
-        let action = command.split(' -> ');
-        if (action.length === 3) {
-            let [name, technique, skill] = action;
-            if (!gladiatorsPool.has(name)) {
-                gladiatorsPool.set(name, new Map());
+        if (command.includes('->')) {
+            let [name, technique, skillPower] = command.split(' -> ');
+            skillPower = Number(skillPower);
+
+            if (!gladiators.hasOwnProperty(name)) {
+                gladiators[name] = {};
+                gladiators[name][skill] = 0;
             }
 
-            let hasGladiatorsPoolTechnique = gladiatorsPool.get(name).has(technique);
-            if (!hasGladiatorsPoolTechnique ||
-                (hasGladiatorsPoolTechnique &&
-                hasGladiatorsPoolTechnique < skill)) {
-                    gladiatorsPool.get(name).set(technique, Number(skill));
+            if (!gladiators[name].hasOwnProperty(tech)) {
+                gladiators[name][tech] = {};
             }
+
+            if (!gladiators[name][tech].hasOwnProperty(technique)) {
+                gladiators[name][tech][technique] = skillPower;
+                gladiators[name][skill] += skillPower;
+            }
+
+            if (gladiators[name][tech][technique] < skillPower) {
+                gladiators[name][skill] += (skillPower - gladiators[name][tech][technique]);
+                gladiators[name][tech][technique] = skillPower;
+            }
+
         } else {
-            let [gladiatorA, gladiatorB] = command.split(' vs ');
-            if (gladiatorsPool.has(gladiatorA) && gladiatorsPool.has(gladiatorB)) {
-                let techGladiatorA = gladiatorsPool.get(gladiatorA);
-                let techGladiatorB = gladiatorsPool.get(gladiatorB);
+            let [firstGlady, secondGlady] = command.split(' vs ');
 
-                let bigSkillMap = techGladiatorA.size > techGladiatorB.size ? techGladiatorA : techGladiatorB;
-                let smallSkillMap = techGladiatorA.size > techGladiatorB.size ? techGladiatorB : techGladiatorA;
+            if (gladiators.hasOwnProperty(firstGlady) && gladiators.hasOwnProperty(secondGlady)) {
+                let firstGladyTechnique = Object.keys(gladiators[firstGlady][tech]);
+                let secondGladyTechnique = Object.keys(gladiators[secondGlady][tech]);
+                let isBattle = false;
 
-                for (let [techName, skill] of Array.from(bigSkillMap)) {
-                    if (smallSkillMap.has(techName)) {
-                        if (techGladiatorA.get(techName) > techGladiatorB.get(techName)) {
-                            techGladiatorB.delete(techName);
-                        } else {
-                            techGladiatorA.delete(techName);
-                        }
+                firstGladyTechnique.forEach(technique => {
+                    if (secondGladyTechnique.includes(technique)) {
+                        isBattle = true;
+                    }
+                });
+
+                if (isBattle) {
+                    if (gladiators[firstGlady][skill] > gladiators[secondGlady][skill]) {
+                        delete gladiators[secondGlady];
+                    } else if (gladiators[secondGlady][skill] > gladiators[firstGlady][skill]) {
+                        delete gladiators[firstGlady];
                     }
                 }
             }
         }
 
-        command = data[index];
-        index++;
+        command = workInput.shift();
     }
 
-    let gladiatorsPoints = new Map();
+    let gladiatorNames = Object.keys(gladiators)
+        .sort((gladiatorOne, gladiatorTwo) => gladiators[gladiatorTwo][skill] - gladiators[gladiatorOne][skill] || (gladiatorOne).localeCompare(gladiatorTwo));
 
-    for (let [gladiatorName, technique] of Array.from(gladiatorsPool)) {
-        let sum = 0;
-        for (let [tech, skill] of Array.from(technique)) {
-            sum += skill;
-        }
+    for (let key of gladiatorNames) {
+        console.log(`${key}: ${gladiators[key][skill]} skill`);
+        let gladiatorTechniques = Object.keys(gladiators[key][tech])
+            .sort((techOne, techTwo) => gladiators[key][tech][techTwo] - gladiators[key][tech][techOne] || (techOne).localeCompare(techTwo));
 
-        if (sum !== 0) {
-            gladiatorsPoints.set(gladiatorName, sum);
-        }
-    }
-
-    let sortGladiatorByPoints = Array.from(gladiatorsPoints).sort((a, b) => {
-        return b[1] - a[1] || a[0].localeCompare(b[0]); 
-    });
-
-    for (let [name, point] of sortGladiatorByPoints) {
-        console.log(`${name}: ${point} skill`);
-        let tech = Array.from(gladiatorsPool.get(name)).sort((a, b) => {
-            return b[1] - a[1] || a[0].localeCompare(b[0]);
-        });
-
-        for (let [techName, skillPoints] of tech) {
-            console.log(`- ${techName} <!> ${skillPoints}`);
+        for (let technique of gladiatorTechniques) {
+            console.log(`- ${technique} <!> ${gladiators[key][tech][technique]}`);
         }
     }
 }
